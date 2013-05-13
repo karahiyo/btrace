@@ -2569,7 +2569,7 @@ public class BTraceUtils {
     }
 
     /**
-     * BTrace to DTrace communication chennal.
+     * BTrace to DTrace communication channel.
      * Raise DTrace USDT probe from BTrace.
      *
      * @see #dtraceProbe(String,String,int,int)
@@ -2579,7 +2579,7 @@ public class BTraceUtils {
     }
 
     /**
-     * BTrace to DTrace communication chennal.
+     * BTrace to DTrace communication channel.
      * Raise DTrace USDT probe from BTrace.
      *
      * @see #dtraceProbe(String,String,int,int)
